@@ -1,0 +1,14 @@
+[
+    {
+        "id": "B001",
+        "title": "Python Programming",
+        "author": "John Smith",
+        "available": true
+    },
+    {
+        "id": "B002",
+        "title": "Data Science Basics",
+        "author": "Ali Khan",
+        "available": true
+    }
+]
